@@ -46,7 +46,7 @@ Eksperimen ini membandingkan metode konvensional dengan pendekatan *deep learnin
 | :--- | :--- | :--- |
 | **Tabular (Titanic)** | Logistic Regression, Random Forest | Multi-Layer Perceptron (MLP) |
 | **Image (MNIST)** | HOG + SVM, PCA + Random Forest | Convolutional Neural Network (CNN) |
-| **Text (Twitter)** | LR + TF-IDF, MNB + TF-IDF, Linear SVM + TF-IDF | Embedding + LSTM, DistilBERT |
+| **Text (Twitter)** | LR + TF-IDF, MNB + TF-IDF, Linear SVM + TF-IDF | Embedding + LSTM, Embedding + 1D-CNN |
 
 ---
 
