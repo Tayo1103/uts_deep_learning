@@ -18,22 +18,22 @@ Penyusunan file dalam repositori ini mengikuti struktur berikut untuk memastikan
 
 ```text
 ├── Case_1_Tabular/
-│   ├── UTS_Deep_Learning_Kasus_1_Data_Tabular_(ML).ipynb          # Notebook Prediksi kelangsungan hidup penumpang Titanic (ML)
-│   ├── UTS_Deep_Learning_Kasus_1_Data_Tabular_(DL).ipynb          # Notebook Prediksi kelangsungan hidup penumpang Titanic (DL)
-│   ├── case1_submission_ml.csv                                    # Kaggle Submission File Prediksi kelangsungan hidup penumpang Titanic (ML)
-│   └── case1_submission_dl.csv                                    # Kaggle Submission File Prediksi kelangsungan hidup penumpang Titanic (DL)
+│   ├── UTS_Deep_Learning_Kasus_1_Data_Tabular_(ML).ipynb      # Notebook Prediksi kelangsungan hidup penumpang Titanic (ML)
+│   ├── UTS_Deep_Learning_Kasus_1_Data_Tabular_(DL).ipynb      # Notebook Prediksi kelangsungan hidup penumpang Titanic (DL)
+│   ├── case1_submission_ml.csv                                # Kaggle Submission File Prediksi kelangsungan hidup penumpang Titanic (ML)
+│   └── case1_submission_dl.csv                                # Kaggle Submission File Prediksi kelangsungan hidup penumpang Titanic (DL)
 ├── Case_2_Image/
-│   ├── UTS_Deep_Learning_Kasus_2_Data_Image_(ML).ipynb            # Notebook Klasifikasi digit tulisan tangan (0-9) (ML)
-│   ├── UTS_Deep_Learning_Kasus_2_Data_Image_(DL).ipynb            # Notebook Klasifikasi digit tulisan tangan (0-9) (DL)
-│   ├── case2_submission_ml.csv                                    # Kaggle Submission File Klasifikasi digit tulisan tangan (0-9) (ML)
-│   └── case2_submission_dl.csv                                    # Kaggle Submission File Klasifikasi digit tulisan tangan (0-9) (DL)
+│   ├── UTS_Deep_Learning_Kasus_2_Data_Image_(ML).ipynb        # Notebook Klasifikasi digit tulisan tangan (0-9) (ML)
+│   ├── UTS_Deep_Learning_Kasus_2_Data_Image_(DL).ipynb        # Notebook Klasifikasi digit tulisan tangan (0-9) (DL)
+│   ├── case2_submission_ml.csv                                # Kaggle Submission File Klasifikasi digit tulisan tangan (0-9) (ML)
+│   └── case2_submission_dl.csv                                # Kaggle Submission File Klasifikasi digit tulisan tangan (0-9) (DL)
 ├── Case_3_Text/
-│   ├── UTS_Deep_Learning_Kasus_3_Data_Text_(ML).ipynb             # Notebook Klasifikasi tweet bencana (Real vs Not Real) (ML)
-│   ├── UTS_Deep_Learning_Kasus_3_Data_Text_(DL).ipynb             # Notebook Klasifikasi tweet bencana (Real vs Not Real) (DL)
-│   ├── case3_submission_ml.csv                                    # Kaggle Submission File Klasifikasi tweet bencana (Real vs Not Real) (ML)
-│   └── case3_submission_dl.csv                                    # Kaggle Submission File Klasifikasi tweet bencana (Real vs Not Real) (DL)
+│   ├── UTS_Deep_Learning_Kasus_3_Data_Text_(ML).ipynb         # Notebook Klasifikasi tweet bencana (Real vs Not Real) (ML)
+│   ├── UTS_Deep_Learning_Kasus_3_Data_Text_(DL).ipynb         # Notebook Klasifikasi tweet bencana (Real vs Not Real) (DL)
+│   ├── case3_submission_ml.csv                                # Kaggle Submission File Klasifikasi tweet bencana (Real vs Not Real) (ML)
+│   └── case3_submission_dl.csv                                # Kaggle Submission File Klasifikasi tweet bencana (Real vs Not Real) (DL)
 ├── Report/
-│   └── Laporan_UTS_Rio Ramadhani Harllambang_1202220205_SI-46-EDM.pdf        # Laporan teknis lengkap format PDF
+│   └── Laporan_UTS_Rio Ramadhani Harllambang_1202220205_SI-46-EDM.pdf      # Laporan teknis lengkap format PDF
 └── README.md
 ```
 
