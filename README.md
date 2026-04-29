@@ -80,7 +80,8 @@ Untuk memenuhi aspek *reproducibility*, ikuti langkah-langkah berikut guna menja
 
 <br></br>
 * **Kasus 3** :
-
+<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/41cd3bc1-457a-4da4-9352-9b97d2b55f9b" />
+<img width="1920" height="1080" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/41d6f07b-d0b2-4d02-9956-78da6a0d70b5" />
 
 ---
 
